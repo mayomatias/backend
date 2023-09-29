@@ -14,8 +14,9 @@ const getAllWorkouts = () => {
     return allWorkouts;
   };
   
-  const getOneWorkout = () => {
-    return;
+  const getOneWorkout = (workoutId) => {
+    const workout = Workout.getOneWorkout(workoutId);
+    return workout;
   };
   
   const createNewWorkout = (newWorkout) => {
@@ -29,8 +30,9 @@ const getAllWorkouts = () => {
     return createdWorkout;
   };
   
-  const updateOneWorkout = () => {
-    return;
+  const updateOneWorkout = (workoutId, body) => {
+    const updatedWorkout = Workout.updateOneWorkout(workoutId, body);
+    return updatedWorkout;
   };
   
   const deleteOneWorkout = () => {
