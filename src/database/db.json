@@ -2,22 +2,22 @@
   "workouts": [
     {
       "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
-      "name": "Core VISNARE222",
+      "name": "TEST2022",
       "mode": "AMRAP 20",
       "equipment": [
-        "rack",
-        "barbell",
-        "abmat"
+        "TEST",
+        "TEST",
+        "TEST"
       ],
       "exercises": [
-        "15 toes to bars",
+        "15 toes to s",
         "10 thrusters",
         "30 abmat sit-ups"
       ],
       "createdAt": "4/20/2022, 2:21:56 PM",
-      "updatedAt": "9/29/2023, 7:30:50 PM",
+      "updatedAt": "11/3/2023, 7:06:21 PM",
       "trainerTips": [
-        "Split your toes to bars into two sets maximum",
+        "Split your toes to bs",
         "Go unbroken on the thrusters",
         "Take the abmat sit-ups as a chance to normalize your breath"
       ]
@@ -83,6 +83,50 @@
       "id": "68cf5653-e4bc-437c-9ffb-0213b45e2760",
       "createdAt": "9/28/2023, 6:21:28 PM",
       "updatedAt": "9/28/2023, 6:21:28 PM"
+    },
+    {
+      "name": "TEST1",
+      "mode": "TEST 20",
+      "equipment": [
+        "TEST",
+        "TEST",
+        "TEST"
+      ],
+      "exercises": [
+        "15 TEST to bars",
+        "10 TEST",
+        "30 TEST sit-ups"
+      ],
+      "trainerTips": [
+        "Split your toes to bars into two sets maximum",
+        "Go unbroken on the thrusters",
+        "Take the abmat sit-ups as a chance to normalize your breath"
+      ],
+      "id": "c0ce89c3-4006-4783-8d2e-c17d0b5ced5d",
+      "createdAt": "11/2/2023, 7:44:53 PM",
+      "updatedAt": "11/2/2023, 7:44:53 PM"
+    },
+    {
+      "name": "TEST2",
+      "mode": "TEST 20",
+      "equipment": [
+        "TEST",
+        "TEST",
+        "TEST"
+      ],
+      "exercises": [
+        "15 TEST to bars",
+        "10 TEST",
+        "30 TEST sit-ups"
+      ],
+      "trainerTips": [
+        "Split your toes to bars into two sets maximum",
+        "Go unbroken on the thrusters",
+        "Take the abmat sit-ups as a chance to normalize your breath"
+      ],
+      "id": "3bbce175-56a8-40c0-b59b-d12327f5a016",
+      "createdAt": "11/3/2023, 12:55:28 PM",
+      "updatedAt": "11/3/2023, 12:55:28 PM"
     }
   ]
 }
